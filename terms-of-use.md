@@ -11,7 +11,7 @@ Mederak Apps
 Contact:
 
 ```text
-piotr@mederak or mederak@gmail.com
+piotr@mederak.pl
 ```
 
 
@@ -60,6 +60,6 @@ The app may change over time. Material changes to these terms should be reflecte
 For questions about these terms, contact:
 
 ```text
-piotr@mederak.pl or mederak@gmail.com
+piotr@mederak.pl
 ```
 
