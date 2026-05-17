@@ -65,6 +65,6 @@ Issue summaries and issue metadata may contain personal data or confidential cus
 For privacy questions, contact:
 
 ```text
-piotr@mederak.pl or mederak@gmail.com
+piotr@mederak.pl
 ```
 
