@@ -3,7 +3,7 @@
 Support contact:
 
 ```text
-support@example.com
+piotr@mederak.pl or mederak@gmail.com
 ```
 
 ## How To Report A Problem
