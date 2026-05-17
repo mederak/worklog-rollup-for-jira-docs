@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Last updated: TODO: YYYY-MM-DD
+Last updated: TODO: 2026-05-17
 
 This Privacy Policy describes how `Worklog Rollup for Jira` processes data when used as an Atlassian Forge app for Jira Cloud.
 
@@ -65,6 +65,6 @@ Issue summaries and issue metadata may contain personal data or confidential cus
 For privacy questions, contact:
 
 ```text
-support@example.com
+piotr@mederak.pl or mederak@gmail.com
 ```
 
