@@ -68,7 +68,7 @@ Required to store short-lived calculation cache in Forge Storage. This improves 
 Support contact:
 
 ```text
-support@example.com
+piotr@mederak.pl
 ```
 
 Typical response time: 2-5 business days, best effort.
