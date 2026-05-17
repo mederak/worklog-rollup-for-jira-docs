@@ -1,6 +1,6 @@
 # Terms Of Use
 
-Last updated: TODO: YYYY-MM-DD
+Last updated: TODO: 2026-05-17
 
 These Terms of Use apply to `Worklog Rollup for Jira`, an app provided by:
 
@@ -11,10 +11,9 @@ Mederak Apps
 Contact:
 
 ```text
-support@example.com
+piotr@mederak or mederak@gmail.com
 ```
 
-TODO/LEGAL REVIEW: This draft is not legal advice and should be reviewed by legal counsel before publication.
 
 ## Product
 
@@ -61,6 +60,6 @@ The app may change over time. Material changes to these terms should be reflecte
 For questions about these terms, contact:
 
 ```text
-support@example.com
+piotr@mederak.pl or mederak@gmail.com
 ```
 
