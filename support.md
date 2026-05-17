@@ -3,7 +3,7 @@
 Support contact:
 
 ```text
-piotr@mederak.pl or mederak@gmail.com
+piotr@mederak.pl
 ```
 
 ## How To Report A Problem
