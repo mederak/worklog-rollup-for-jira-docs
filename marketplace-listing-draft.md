@@ -101,9 +101,4 @@ No.
 
 No. The app uses standard Jira aggregated time tracking fields.
 
-## Pricing Positioning
-
-Lightweight paid app for project managers and Jira teams who need a fast issue-level rollup of logged time across Jira hierarchies.
-
-TODO: Define final pricing, trial period, and Marketplace billing model.
 
