@@ -4,7 +4,6 @@ Last updated: TODO: 2026-05-17
 
 This Privacy Policy describes how `Worklog Rollup for Jira` processes data when used as an Atlassian Forge app for Jira Cloud.
 
-TODO/LEGAL REVIEW: This draft should be reviewed by legal counsel before publication.
 
 ## What The App Does
 
